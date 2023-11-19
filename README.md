@@ -10,8 +10,7 @@ I'm growing! (●'◡'●)
 Current interests are dart-flutter and chatgpt......  
 City: China KaiFeng(开封)  
 University: HeNan University(河南大学)  
-website:http://atpgroup.work/ForestBlog-1.0.0-SNAPSHOT/  
-http://henuvirtualcollege.top  
+website: atpgroup.work
 gitee: 
 
 
